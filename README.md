@@ -30,7 +30,7 @@ The main goal of this project is to transform raw data into actionable insights 
 ## ⚙️ Setup and Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Global-Trends-Visualization.git](https://github.com/YourUsername/Global-Trends-Visualization.git)
+    git clone [https://github.com/asmaelnour2/Global-Trends-Visualization.git](https://github.com/asmaelnour2/Global-Trends-Visualization.git)
     ```
 2.  **Install dependencies:**
     ```bash
